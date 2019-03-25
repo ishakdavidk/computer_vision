@@ -1,4 +1,4 @@
 ## Computer Vision Class
 
-Programming Computer Vision with Python Notebook
+Prof. Lee Byung Gook - Programming Computer Vision with Python Notebook
 
